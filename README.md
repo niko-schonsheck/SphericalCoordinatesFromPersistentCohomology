@@ -1,1 +1,1 @@
-Try "example_notebook.ipynb" for an example of the paper's technique on a noisy sphere. This repo will be updated to include more complete examples and user-friendly information in the future.
+Try "example_notebook.ipynb" for an example of the paper's technique on a noisy sphere. We hope to update this repo to include more complete examples and user-friendly information in the future. In the meantime, please reach out to Niko Schonsheck (nschonsheck@rockefeller.edu) if you would like further examples or guidance on this code.
